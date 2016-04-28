@@ -1,0 +1,9 @@
+/* applies to GIF and PNG images; avoids blurry edges */
+
+img[src$=".gif"], img[src$=".png"] {
+	image-rendering: -moz-crisp-edges !important;         /* Firefox */
+	image-rendering: -o-crisp-edges;         /* Opera */
+	image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+}
