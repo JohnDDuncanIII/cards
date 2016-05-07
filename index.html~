@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<LINK rel="stylesheet" type="text/css" href="no_aa.css">
+<LINK rel="stylesheet" type="text/css" href="../no_aa.css">
 <META NAME="description" CONTENT="A full deck of Playing Card Icons">
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
 <META NAME="keywords" CONTENT="Playing Cards, deck of cards, deck, cards, icons, images">
@@ -848,79 +848,7 @@
 </TR>
 </TABLE>
 
-<BR><BR><HR>
-<BR>
-<TABLE BORDER=0 CELLSPACING=10 CELLPADDING=5>
-<TR>
-<TD><IMG SRC="ClassicSet/Standard/jokerb.png"></TD>
-<TD VALIGN=CENTER> <font face="monospaced"><a href="ClassicSet/sol_aa.zip">sol_aa.zip</a></font> </TD>
-<TD><IMG SRC="ClassicSet/Standard/jokerr.png"></TD>
-</TR>
-</TABLE>
-<BR>
 
-<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=0>
-<TR>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/aceclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/deuceclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/threeclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fourclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fiveclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sixclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sevenclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/eightclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/nineclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/tenclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/jackclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/queenclubs.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/kingclubs.png"></TD>
-</TR>
-<TR>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/acehearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/deucehearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/threehearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fourhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fivehearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sixhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sevenhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/eighthearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/ninehearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/tenhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/jackhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/queenhearts.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/kinghearts.png"></TD>
-</TR>
-<TR>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/acespades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/deucespades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/threespades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fourspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fivespades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sixspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sevenspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/eightspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/ninespades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/tenspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/jackspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/queenspades.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/kingspades.png"></TD>
-</TR>
-<TR>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/acediamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/deucediamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/threediamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fourdiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/fivediamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sixdiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/sevendiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/eightdiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/ninediamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/tendiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/jackdiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/queendiamonds.png"></TD>
-<TD ALIGN=CENTER><IMG SRC="ClassicSet/Standard/kingdiamonds.png"></TD>
-</TR>
-</TABLE>
 
 
 </BODY>
