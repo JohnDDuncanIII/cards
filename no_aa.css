@@ -1,14 +1,14 @@
 /* applies to GIF and PNG images; avoids blurry edges */
 
 img[src$=".gif"], img[src$=".png"] {
-    image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-    image-rendering: -moz-crisp-edges;          /* Firefox                        */
-    image-rendering: -o-crisp-edges;            /* Opera                          */
+    image-rendering: optimizeSpeed;             /* speed  */
+    image-rendering: -moz-crisp-edges;          /* Firefox */
+    image-rendering: -o-crisp-edges;            /* Opera */
     image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
     image-rendering: pixelated; /* Chrome */
-    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-    image-rendering: crisp-edges;
+    image-rendering: optimize-contrast;         /* CSS3 Proposed */
+    -ms-interpolation-mode: nearest-neighbor;   /* IE8+ */
+    image-rendering: crisp-edges; /* ? */
 }
 @font-face{ 
     	font-family: 'eWorldTight_18';
@@ -17,7 +17,7 @@ img[src$=".gif"], img[src$=".png"] {
 	font-weight: normal;
 	font-style: normal;
 }
-body:link, body:visited, table:link, table:visited {
+*:link, *:visited {
   font-family: 'eWorldTight_18', cursive, sans-serif;
   font-size: 18px;
 }
