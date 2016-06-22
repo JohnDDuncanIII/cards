@@ -1,4 +1,4 @@
 # PlayingCards
 Repository that holds various public domain playing card sets
 
-![cards](cards.png)
+[screenshot!](https://raw.githubusercontent.com/JohnDDuncanIII/PlayingCards/master/cards.png)
