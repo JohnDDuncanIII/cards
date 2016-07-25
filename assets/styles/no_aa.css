@@ -17,11 +17,10 @@ img[src$=".gif"], img[src$=".png"] {
 	font-weight: normal;
 	font-style: normal;
 }
-*:link, *:visited {
+* {
   font-family: 'eWorldTight_18', cursive, sans-serif;
   font-size: 18px;
 }
-body, table {
-  font-family: 'eWorldTight_18', serif, sans-serif;
-  font-size: 18px;
+hr {
+    border:1px dotted #1b1b1b;
 }
